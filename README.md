@@ -4,8 +4,10 @@
 Ce  projet est une application de gestion des inscriptions des étudiants, réalisé en utilisant JavaFX comme framework pour l'interface utilisateur. L'application permet d'effectuer les opérations CRUD (Create, Read, Update, Delete) sur les données des étudiants, notamment leur nom, prénom, adresse e-mail, CNE (Code National de l'Étudiant), âge, filière et année d'études.
 
 ## Project
-
-
+Créer par : 
+      **Zineb Essoussi** 
+      **Safae Rabbouzi**
+      
 https://github.com/DesignToWebsite/Javafx_project/assets/74991230/78f89ed6-3374-47c4-929d-a970afac5779
 
 
