@@ -5,8 +5,8 @@ Ce  projet est une application de gestion des inscriptions des étudiants, réal
 
 ## Project
 Créer par : <br/>
-      **Zineb Essoussi** <br/>
-      **Safae Rabbouzi**
+      <a href="https://www.linkedin.com/in/zineb-essoussi-5301581b6/">**Zineb Essoussi**</a> <br/>
+     <a href="https://www.linkedin.com/in/safae-rabbouzi-b80621209/"> **Safae Rabbouzi**</a>
       
 https://github.com/DesignToWebsite/Javafx_project/assets/74991230/78f89ed6-3374-47c4-929d-a970afac5779
 
